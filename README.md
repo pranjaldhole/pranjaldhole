@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 At work, I build cool machine learning softwares & tools for biologists to help them analyse their bio-medical image data.
-- 🌱 In my free time I love building cool simulations and train bots with reinforcement learning that can play the games.
+- 🌱 In my free time I love building cool simulations and train bots with reinforcement learning that can play games.
 - 👯 I’m looking to collaborate on artificial life projects. Few of my interests you'll discover [https://github.com/artificial-life-lab](https://github.com/artificial-life-lab).
 - 📫 My contact info and more about my work can be found here: [https://pranjaldhole.github.io](https://pranjaldhole.github.io/)
 
