@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📫 My contact info and more about my work can be found here: [https://pranjaldhole.github.io](https://pranjaldhole.github.io/)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaldhole&layout=compact&theme=dark&langs_count=10&hide=Jupyter&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaldhole&layout=compact&theme=dark&langs_count=10&hide=Jupyter, jupyter notebook&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjaldhole&theme=dark&show_icons=true&layout=compact&include_all_commits=true&count_private=true,&hide=contribs,stars" />
